@@ -10,6 +10,7 @@ import Projects from './components/sections/Projects';
 import CyberAttacks from './components/sections/CyberAttacks';
 import Contact from './components/sections/Contact';
 import Footer from './components/layout/Footer';
+import Blog from './components/sections/Blog';
 
 function App() {
   useEffect(() => {
@@ -51,6 +52,7 @@ function App() {
         <Projects />
         <CyberAttacks />
         <Contact />
+        <Blog />
         <Footer />
       </div>
     </div>
