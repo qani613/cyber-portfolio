@@ -1,0 +1,61 @@
+I'll help you organize this information for the Cybersecurity Operator program at the Ottawa campus. Here's a structured breakdown of the curriculum by subject and duration:
+
+1. Computer Hardware and Host-Based Security Foundations
+   - Duration: 5 weeks
+   - Dates: Jan 20 - Feb 17, 2025
+
+2. Network Architecture Design and Operations
+   - Duration: 5 weeks
+   - Dates: Feb 24 - Mar 24, 2025
+
+3. Helpdesk
+   - Duration: 1 week
+   - Date: Mar 31, 2025
+
+4. Report Writing and Communication
+   - Duration: 1 week
+   - Date: Apr 07, 2025
+
+5. Career Management
+   - Duration: 1 week
+   - Date: Apr 14, 2025
+
+6. Windows Administration Security I - Core Infrastructure
+   - Duration: 4 weeks
+   - Dates: Apr 21 - May 12, 2025
+
+7. Windows Administration Security II - Active Directory Services
+   - Duration: 4 weeks
+   - Dates: May 19 - Jun 09, 2025
+
+8. Windows Administration Security III - Advanced Services
+   - Duration: 4 weeks
+   - Dates: Jun 16 - Jul 07, 2025
+
+9. Windows Applications Security I - Databases
+   - Duration: 3 weeks
+   - Dates: Jul 14 - Jul 28, 2025
+
+10. Windows Applications Security II - Messaging Services
+    - Duration: 3 weeks
+    - Dates: Aug 04 - Aug 18, 2025
+
+11. Network Security Technology - Routing and Switches
+    - Duration: 6 weeks
+    - Dates: Aug 25 - Sep 29, 2025
+
+12. Network Security and Defence Foundations with Advanced Report Writing
+    - Duration: 3 weeks
+    - Dates: Oct 06 - Oct 20, 2025
+
+13. Linux Systems Administration and Security
+    - Duration: 4 weeks
+    - Dates: Oct 27 - Nov 17, 2025
+
+14. Network Security and Unified Threat Management
+    - Duration: 4 weeks
+    - Dates: Nov 24 - Dec 15, 2025
+
+Total Program Duration: 48 weeks (approximately 11 months)
+Start Date: January 20, 2025
+End Date: December 15, 2025

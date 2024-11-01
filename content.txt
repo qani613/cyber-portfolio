@@ -1,0 +1,113 @@
+Summary
+======
+Detail-oriented cybersecurity professional dedicated to protecting organizations and the people they serve. Knowledgeable about NIST frameworks and able to implement security controls to ensure compliance with international regulations related to data protection. Experience with identifying threats, risks, and vulnerabilities; security hardening: threat modeling; and incident escalation and response. Proficient in the use of Linux command line, Wireshark, TcpDump, SQL, and Python. Strong communication and problem-solving skills. Recently completed the Google Cybersecurity Certificate, a rigorous, skills-based program that covers key cybersecurity knowledge and skills.
+
+
+Experience
+======
+Network Security (Home Lab)
+LAB
+01/2020 - Ongoing
+Ottawa, ON
+ - Developed and simulated network security scenarios in a home lab setting to analyze security protocols and identify vulnerabilities.
+ - Engineered network defenses by designing and implementing firewall rules and intrusion detection systems in simulated environments.
+ - Conducted virtual network security audits to ensure compliance with industry standards, focusing on mitigating security risks.
+ - Explored emerging threats through targeted research in a controlled lab environment, enhancing the organization’s security posture.
+ - Simulated incident response drills to effectively manage and resolve security incidents and breaches, applying theoretical knowledge in practical scenarios.
+
+Vulnerability Assessment (Home Lab)
+LAB
+06/2017 - 12/2019
+Ottawa, ON
+ - Performed detailed vulnerability assessments in a home lab environment, using tools like Nessus and Nmap to simulate real-world security checks on systems and networks.
+ - Analyzed and prioritized security vulnerabilities by assessing scan results to identify critical risks and their potential impacts.
+ - Developed virtual collaboration techniques with hypothetical system administrators and network engineers to strategize on vulnerability remediation.
+ - Created comprehensive security reports to document vulnerabilities, suggest remediation strategies, and outline risk mitigation measures.
+ - Continuously updated security knowledge to incorporate the latest threats and vulnerabilities, ensuring assessments were current and robust.
+
+WordPress Developer
+Freelance
+02/2021 - Ongoing
+Ottawa, ON
+ - Designed and developed custom WordPress websites for clients across various industries, focusing on construction, design, and security aspects.
+ - Utilized Elementor page builder to create visually appealing and responsive website layouts, tailored to meet client requirements and preferences.
+ - Implemented Search Engine Optimization (SEO) techniques to improve website visibility and rankings on search engine results pages (SERPs).
+ - Applied CSS styling to enhance website aesthetics and ensure consistent branding across all pages.
+ - Integrated security measures to safeguard websites against common threats, including malware, hacking attempts, and data breaches
+ - Provided ongoing maintenance and support services, including updates, backups, and troubleshooting to ensure website functionality and security
+ - Collaborated closely with clients to understand their business goals and translate them into effective website solutions that drive engagement and conversions.
+ - Managed project timelines, budgets, and deliverables to ensure timely and successful project completion.
+
+
+Education
+======
+Coding & Web Development Program (360 hours)
+Code Youth Non-Profit Organization
+01/2023 - 04/2023
+Ottawa, Ontario
+
+
+Projects
+======
+Network Tool | Python, Socket, Ipaddress, Requests
+Ottawa, ON
+ - Developed a versatile network tool using Python to assist network administrators.
+ - Implemented functionalities including subnetting, decimal-to-binary and binary-to-decimal conversion, subnet and host calculations, reverse DNS lookup, IP address geolocation, and network port scanning.
+ - Provided a user-friendly interface for easy navigation and execution of network tasks.
+ - Utilized Python libraries such as socket, requests, and Ip Address for network-related operations.
+ - Designed to enhance network management and troubleshooting processes for IT professionals.
+
+
+TOOLS & TECHNOLOGIES
+======
+Operating Systems
+Linux . Windows . AndroidiOS . macOS . Chrome OS
+
+Security Tools
+Wireshark . Tcpdump . Nmap .Snort . Suricata . UFW . Windows Defender Firewall . Splunk . Nessus
+
+Networking
+LAN . DHCP . VPN . DNS . Firewalls . NAT . VLAN
+
+Programming Languages
+HTML . CSS . Python . JavaScript (basic) 
+
+
+Skills
+======
+ - Threats . Risks . Vulnerabilities
+ - Incident response
+ - Network Analysis
+- Network Security
+- Security frameworks and controls
+ - Security hardening
+ - Linux command line
+ - Wireshark
+ - TcpDump
+ - SQL
+ - SIEM tools
+ - Git/GitHub
+ - WordPress
+ - Microsoft Hyper-v
+ - Virtual Private Server
+ - Ubuntu Server
+ - Visual Studio Code
+
+
+CERTIFICATION
+======
+Google Cybersecurity Certificate
+Emphasizes practical skills in system protection, threat mitigation, and incident response. Skills include Python, SIEM tools, SQL, Linux, and IDS.
+
+The Bits and Bytes of Computer Networking
+Certification in Computer Networking covers network fundamentals, TCP/IP, DNS, DHCP, and cloud applications. Skills gained include DNS, IPv4, network modeling, and troubleshooting.
+
+Security Blue Team Introduction to OSINT
+Mastered key OSINT tools like The Harvester, TweetDeck, and Google Dorks. Enhanced capabilities in search techniques, reverse image searching, and social media analytics. Proficient in profiling and evaluating risks associated with individuals of interest. Certified in foundational OSINT skills, relevant to cybersecurity and intelligence roles.
+
+
+Passions
+======
+Exploring New Technologies
+I have a deep passion for exploring and experimenting with new technologies, especially in Linux and server technologies
+

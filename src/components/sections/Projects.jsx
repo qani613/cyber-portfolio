@@ -3,31 +3,13 @@ import { useState } from 'react';
 const Projects = () => {
   const projects = [
     {
-      title: "Hookah Bar Activity Tracker",
-      description: "Flask application for tracking smoking activity and balance with user authentication and mobile-friendly UI.",
-      tags: ["Flask", "Bootstrap", "SQLite"],
-      type: "web",
-      link: "#",
-      github: "https://github.com/username/project",
-      image: "/images/project1.jpg"
-    },
-    {
-      title: "Secure Chat Application",
-      description: "End-to-end encrypted group chat with user authentication and 30-day message logging.",
-      tags: ["Python", "Encryption", "WebSocket"],
-      type: "security",
-      link: "#",
-      github: "https://github.com/username/project",
-      image: "/images/project2.jpg"
-    },
-    {
-      title: "Network Administration Tool",
-      description: "Python-based network administration tool featuring subnetting, DNS lookup, port scanning, and IP geolocation.",
-      tags: ["Python", "Networking", "Security"],
+      title: "Network Tool",
+      description: "Developed a versatile network tool using Python to assist network administrators with subnetting, conversion calculations, DNS lookup, IP geolocation, and port scanning.",
+      tags: ["Python", "Socket", "Ipaddress", "Requests"],
       type: "network",
       link: "#",
-      github: "https://github.com/username/project",
-      image: "/images/project3.jpg"
+      github: "https://github.com/username/network-tool",
+      image: "/images/network-tool.jpg"
     }
   ];
 

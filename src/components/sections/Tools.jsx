@@ -1,33 +1,33 @@
 const Tools = () => {
   const toolCategories = [
     {
+      title: "Operating Systems",
+      icon: "desktop",
+      tools: [
+        { name: "Linux", icon: "/icons/linux.svg", proficiency: 90 },
+        { name: "Windows", icon: "/icons/windows.svg", proficiency: 85 },
+        { name: "macOS", icon: "/icons/macos.svg", proficiency: 80 },
+        { name: "Chrome OS", icon: "/icons/chrome.svg", proficiency: 85 }
+      ]
+    },
+    {
       title: "Security Tools",
       icon: "shield-alt",
       tools: [
         { name: "Wireshark", icon: "/icons/wireshark.svg", proficiency: 90 },
-        { name: "Nmap", icon: "/icons/nmap.svg", proficiency: 85 },
-        { name: "Metasploit", icon: "/icons/metasploit.svg", proficiency: 80 },
-        { name: "Burp Suite", icon: "/icons/burp.svg", proficiency: 85 }
+        { name: "Tcpdump", icon: "/icons/tcpdump.svg", proficiency: 85 },
+        { name: "Nmap", icon: "/icons/nmap.svg", proficiency: 90 },
+        { name: "Snort", icon: "/icons/snort.svg", proficiency: 85 }
       ]
     },
     {
-      title: "Development",
+      title: "Programming",
       icon: "code",
       tools: [
-        { name: "VS Code", icon: "/icons/vscode.svg", proficiency: 95 },
-        { name: "Git", icon: "/icons/git.svg", proficiency: 90 },
-        { name: "Docker", icon: "/icons/docker.svg", proficiency: 85 },
-        { name: "Terminal", icon: "/icons/terminal.svg", proficiency: 90 }
-      ]
-    },
-    {
-      title: "Network Tools",
-      icon: "network-wired",
-      tools: [
-        { name: "pfSense", icon: "/icons/pfsense.svg", proficiency: 85 },
-        { name: "Snort IDS", icon: "/icons/snort.svg", proficiency: 80 },
-        { name: "VMware", icon: "/icons/vmware.svg", proficiency: 90 },
-        { name: "VirtualBox", icon: "/icons/virtualbox.svg", proficiency: 85 }
+        { name: "HTML", icon: "/icons/html.svg", proficiency: 90 },
+        { name: "CSS", icon: "/icons/css.svg", proficiency: 85 },
+        { name: "Python", icon: "/icons/python.svg", proficiency: 80 },
+        { name: "JavaScript", icon: "/icons/javascript.svg", proficiency: 75 }
       ]
     }
   ];

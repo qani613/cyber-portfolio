@@ -2,31 +2,50 @@ const Experience = () => {
   const experiences = [
     {
       title: "Network Security (Home Lab)",
-      company: "Personal Project",
-      date: "01/2020 - Present",
+      company: "LAB",
+      date: "01/2020 - Ongoing",
       location: "Ottawa, ON",
-      type: "Remote",
+      type: "Lab Environment",
       responsibilities: [
-        "Developed and simulated network security scenarios to analyze security protocols",
-        "Engineered network defenses with firewall rules and intrusion detection systems",
-        "Conducted virtual network security audits for industry standards compliance",
-        "Explored emerging threats through targeted research"
+        "Developed and simulated network security scenarios in a home lab setting to analyze security protocols and identify vulnerabilities",
+        "Engineered network defenses by designing and implementing firewall rules and intrusion detection systems in simulated environments",
+        "Conducted virtual network security audits to ensure compliance with industry standards, focusing on mitigating security risks",
+        "Explored emerging threats through targeted research in a controlled lab environment, enhancing the organization's security posture",
+        "Simulated incident response drills to effectively manage and resolve security incidents and breaches"
       ],
-      technologies: ["Wireshark", "Snort IDS", "pfSense", "VMware", "Kali Linux"]
+      technologies: ["Wireshark", "IDS", "Firewall", "Network Security", "Incident Response"]
+    },
+    {
+      title: "Vulnerability Assessment (Home Lab)",
+      company: "LAB",
+      date: "06/2017 - 12/2019",
+      location: "Ottawa, ON",
+      type: "Lab Environment",
+      responsibilities: [
+        "Performed detailed vulnerability assessments using tools like Nessus and Nmap",
+        "Analyzed and prioritized security vulnerabilities by assessing scan results",
+        "Developed virtual collaboration techniques with hypothetical system administrators",
+        "Created comprehensive security reports and documentation",
+        "Continuously updated security knowledge to incorporate latest threats"
+      ],
+      technologies: ["Nessus", "Nmap", "Vulnerability Assessment", "Security Analysis"]
     },
     {
       title: "WordPress Developer",
       company: "Freelance",
-      date: "02/2021 - Present",
+      date: "02/2021 - Ongoing",
       location: "Ottawa, ON",
       type: "Remote",
       responsibilities: [
-        "Designed custom WordPress websites for various industries",
-        "Implemented SEO techniques and security measures",
-        "Managed ongoing maintenance and support services",
-        "Optimized website performance and security"
+        "Designed and developed custom WordPress websites for clients across various industries",
+        "Utilized Elementor page builder to create visually appealing and responsive layouts",
+        "Implemented SEO techniques to improve website visibility",
+        "Applied CSS styling and consistent branding",
+        "Integrated security measures against common threats",
+        "Provided ongoing maintenance and support services",
+        "Managed project timelines and deliverables"
       ],
-      technologies: ["WordPress", "PHP", "MySQL", "JavaScript", "Security Plugins"]
+      technologies: ["WordPress", "Elementor", "SEO", "CSS", "Security"]
     }
   ];
 

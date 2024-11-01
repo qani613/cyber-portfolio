@@ -48,8 +48,8 @@ const About = () => {
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold gradient-text mb-4">
             About Me
           </h2>
-          <p className="text-gray-400 text-sm sm:text-base max-w-2xl mx-auto">
-            Passionate about cybersecurity and dedicated to protecting digital assets
+          <p className="text-gray-400 text-sm sm:text-base max-w-3xl mx-auto">
+            Detail-oriented cybersecurity professional dedicated to protecting organizations and the people they serve. Knowledgeable about NIST frameworks and able to implement security controls to ensure compliance with international regulations related to data protection. Experience with identifying threats, risks, and vulnerabilities; security hardening: threat modeling; and incident escalation and response. Proficient in the use of Linux command line, Wireshark, TcpDump, SQL, and Python. Strong communication and problem-solving skills.
           </p>
         </div>
 
